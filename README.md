@@ -1,2 +1,2 @@
 # Disease-Risk-Prediction
-Done using deep learning
+Done using deep learning techniques
